@@ -1,0 +1,1 @@
+C:\TDM-GCC-64\bin\g++ -std=c++14 -I..\googletest\googletest\include\ test_file_1.cpp -lgtest -lgtest_main -o cpp
